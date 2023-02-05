@@ -1,2 +1,2 @@
 # Portfolio
-This repository will display my portfolio, educational projects 
+This repository will display my QA portfolio, educational projects 
