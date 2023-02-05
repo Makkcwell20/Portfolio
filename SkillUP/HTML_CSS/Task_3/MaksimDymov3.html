@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 3</title>
+
+    <style>
+        .box {
+            display: flex;
+            width: 40%;
+            flex-direction: column;
+            margin: 15px auto;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h2 style="text-align: center;">Simple Form for Hometask 3</h2>
+    </header>
+    <main>
+        <form>
+            <div class="box">
+                <div>
+                    <label for="email">Enter your E-mail</label>
+                    <input type="email" name="email" required>
+                </div>
+                <div>
+                    <label for="pw">Enter your password</label>
+                    <input type="password" name="password" required>
+                </div>
+                <div>
+                    <label>
+                        <input type="checkbox" name="languages" value="HTML">
+                        I want to study HTML
+                    </label>
+                    <br>
+                    <label>
+                        <input type="checkbox" name="languages" value="CSS">
+                        I want to study CSS
+                    </label>
+                    <br>
+                    <label>
+                        <input type="checkbox" name="languages" value="JS">
+                        I want to study JS
+                    </label>
+                </div>
+                <div>
+                    <input type="file">
+                </div>
+                <div>
+                    <input type="submit" value="Submit">
+                    <input type="reset" value="Cancel">
+                </div>
+            </div>
+            
+        </form>
+    </main>
+    <footer>
+        <h5 style="text-align: center;">Made by Maksim Dymov</h5>
+    </footer>
+</body>
+</html>

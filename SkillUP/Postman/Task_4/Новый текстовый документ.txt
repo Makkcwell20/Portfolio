@@ -1,0 +1,24 @@
+makcwell@gmail.com
+name": "Makkcwell",
+123456789
+
+    "email": "makcwellx@gmail.com",
+    "name": "Makkcwellx",
+    "password": "123456789",
+
+    "email": "makcwell1101@gmail.com",
+    "name": "Makkcwell1101",
+    "password": "karamba"
+
+    "email": "makcwell1107@gmail.com",
+    "name": "Makkcwell1107",
+    "password": "karamba"
+
+Company
+{
+  "company_name": "DeadInside",
+  "company_type": "ООО",
+  "company_users": ["makcwell@gmail.com", "makcwellx@gmail.com", "makcwell1101@gmail.com"],
+  "email_owner": "makcwell1107@gmail.com"
+} 
+
